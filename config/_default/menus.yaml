@@ -8,8 +8,8 @@ main:
     url: people
     weight: 10
   - name: Projects
-    url: projects
+    url: project
     weight: 40
-  - name: Publications
+  - name: Papers
     url: publication
     weight: 50
