@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Neal Caren
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Neal
+last_name: Caren
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of North Carolina
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
