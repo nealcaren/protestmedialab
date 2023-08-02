@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Carolina Protest & Media Lab
       image:
-        filename: welcome.jpg
+        filename: rw_protest.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Carolina Protest & Media Research Group** is a collection of faculty, graduate students and undergraduates affiliated with the University of North Carolina, Chapel Hill Sociology Department studying collective action and the media. 
   
   - block: collection
     content:
