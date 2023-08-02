@@ -10,7 +10,7 @@ sections:
       title: |
         Carolina Protest & Media Research Group
       image:
-        filename: rw_protest.jpeg
+        filename: rw_protest.jpg
       text: |
         <br>
         
