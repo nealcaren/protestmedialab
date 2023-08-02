@@ -8,9 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Carolina Protest & Media Lab
+        Carolina Protest & Media Research Group
       image:
-        filename: rw_protest.jpg
+        filename: rw_protest.jpeg
       text: |
         <br>
         
