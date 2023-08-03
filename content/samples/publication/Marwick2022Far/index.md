@@ -1,4 +1,4 @@
-+++
+---
 title: 'Far-Right Online Radicalization: A Review of the Literature'
 authors:
   - Alice Marwick
@@ -32,5 +32,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-+++
+---
 
+The Bulletin of Technology & Public Life is a project by the Center for Information, Technology, and Public Life at the University of North Carolina at Chapel Hill.
