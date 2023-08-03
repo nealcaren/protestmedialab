@@ -8,7 +8,7 @@ last_name: Furl
 
 # Username (this should match the folder name)
 authors:
-  - Katherine Furl
+  - katherine-furl
 
 # Is this the primary user of the site?
 superuser: false
