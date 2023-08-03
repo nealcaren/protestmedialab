@@ -32,7 +32,7 @@ sections:
       view: compact
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
-- block: collection
+  - block: collection
     id: section-2
     content:
       title: Recent Presentations
