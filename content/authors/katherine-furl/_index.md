@@ -32,7 +32,7 @@ interests:
   - Social Psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: Katherine Furl is a doctoral candidate in the Sociology department at the University of North Carolina-Chapel Hill and a graduate affiliate with UNC’s Center for Information Technology and Public Life ([CITAP(https://citap.unc.edu/)]).
+bio: Katherine Furl is a doctoral candidate in the Sociology department at the University of North Carolina-Chapel Hill and a graduate affiliate with UNC’s Center for Information Technology and Public Life ([CITAP](https://citap.unc.edu/)).
 
 education:
   courses:
@@ -68,7 +68,7 @@ social:
 #    link: https://github.com/KatherineFurl
 ---
 
-I am a doctoral candidate in the Sociology department at the University of North Carolina-Chapel Hill and a graduate affiliate with UNC’s Center for Information Technology and Public Life ([CITAP(https://citap.unc.edu/)]).
+I am a doctoral candidate in the Sociology department at the University of North Carolina-Chapel Hill and a graduate affiliate with UNC’s Center for Information Technology and Public Life ([CITAP](https://citap.unc.edu/)).
 
 My research focuses, broadly, on social media, gender, and inequality.
 
