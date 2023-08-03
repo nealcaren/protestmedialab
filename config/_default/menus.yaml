@@ -13,6 +13,6 @@ main:
   - name: Presentations
     url: presentation
     weight: 50
-    - name: Papers
+  - name: Papers
     url: publication
     weight: 60
