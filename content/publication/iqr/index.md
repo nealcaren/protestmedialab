@@ -3,11 +3,11 @@ title: 'Insert Quote Here: Perceived effectiveness of Social Movement Activists'
 authors:
   - Neal Caren
   - Braxton Brewington
-date: '2023-08-16'
+date: '2023-08-13'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-08-02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
