@@ -1,7 +1,7 @@
 ---
 title: 'Right-Wing Protest in the United States, 2017 to 2022'
 authors:
-  - admin
+  - Neal Caren
 date: '2023-07-05'
 doi: '10.1177/23780231231181900'
 
@@ -15,7 +15,7 @@ doi: '10.1177/23780231231181900'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Socius: Sociological Research for a Dynamic World'
+publication: 'Socius: Sociological Research for a Dynamic World'
 publication_short: 'Socius'
 
 abstract: The past few years have seen a resurgence of right-wing demonstrations in the United States. Using new protest event data collected by the Crowd Counting Consortium, this visualization presents monthly trends in the size and count of protests by topic between 2017 and 2022. Conservative protest in the first three years was at a notably low level but with some very large events and a focus on abortion and gun rights. Protests swelled, starting in 2020, with demonstrations against coronavirus disease 2019 restrictions and in support of police officers, followed by election fraud rallies. Finally, 2022 was marked by lower levels of participation overall and increased events targeting LGBQT+ rights.
@@ -29,7 +29,7 @@ featured: false
 
 # links:
 # - name: ""
-url: ''
+url: 'https://journals.sagepub.com/doi/10.1177/23780231231181900'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
