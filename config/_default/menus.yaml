@@ -10,6 +10,9 @@ main:
   - name: Projects
     url: project
     weight: 40
-  - name: Papers
-    url: publication
+  - name: Presentations
+    url: presentation
     weight: 50
+    - name: Papers
+    url: publication
+    weight: 60

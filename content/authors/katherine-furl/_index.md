@@ -68,7 +68,7 @@ social:
 #    link: https://github.com/KatherineFurl
 ---
 
-I am a doctoral candidate in the Sociology department at the University of North Carolina-Chapel Hill and a graduate affiliate with UNC’s Center for Information Technology and Public Life ([CITAP](https://citap.unc.edu/)).
+I am a doctoral candidate in the [Sociology Department](https://sociology.unc.edu/) at the University of North Carolina, Chapel Hill and a graduate affiliate with UNC’s Center for Information Technology and Public Life ([CITAP](https://citap.unc.edu/)).
 
 My research focuses, broadly, on social media, gender, and inequality.
 
