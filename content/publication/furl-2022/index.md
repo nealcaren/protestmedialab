@@ -1,9 +1,9 @@
 ---
-title: 'Right-Wing Protest in the United States, 2017 to 2022'
+title: 'Denigrating Women, Venerating “Chad”: Ingroup and Outgroup Evaluations among Male Supremacists on Reddit'
 authors:
-  - Neal Caren
-date: '2023-07-15'
-doi: '10.1177/23780231231181900'
+  - Katherine Furl
+date: '2022-06-01'
+doi: '10.1177/01902725221090907'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -15,10 +15,11 @@ doi: '10.1177/23780231231181900'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Socius: Sociological Research for a Dynamic World*'
-publication_short: '*Socius*'
+publication: '*Social Psychology Quarterly*'
+#publication_short: '*Social Psychology Quarterly*'
 
-abstract: The past few years have seen a resurgence of right-wing demonstrations in the United States. Using new protest event data collected by the Crowd Counting Consortium, this visualization presents monthly trends in the size and count of protests by topic between 2017 and 2022. Conservative protest in the first three years was at a notably low level but with some very large events and a focus on abortion and gun rights. Protests swelled, starting in 2020, with demonstrations against coronavirus disease 2019 restrictions and in support of police officers, followed by election fraud rallies. Finally, 2022 was marked by lower levels of participation overall and increased events targeting LGBQT+ rights.
+abstract: Can negative evaluations of a broad outgroup paired with positive evaluations of a broad ingroup, sustain willing affiliation with even intensely self-derogating online communities? Synthesizing concepts from masculinities scholarship, social identity theory, and self-verification theory, this study compares language from two distinctive misogynist communities active on Reddit.com—Men Going Their Own Way, male separatists who positively frame members as superior to other men and men as superior to women, and Involuntary Celibates (incels), who openly derogate incel community members—to understand what sustains misogynist incels’ willing affiliation with the self-derogating incel community. Using thematic qualitative analysis, I find that while male separatists favor both their own narrower online community and the broader ingroup of men, misogynist incels engage in a patriarchal bargain, using relatively benevolent depictions of some men alongside negative depictions of all women to perpetuate broader gender inequality.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -59,8 +60,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Data and Stata replication code are available at [https://osf.io/wdutf/](https://osf.io/wdutf/).
-{{% /callout %}}
 
