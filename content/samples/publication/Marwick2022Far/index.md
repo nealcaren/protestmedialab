@@ -1,4 +1,4 @@
----
++++
 title: 'Far-Right Online Radicalization: A Review of the Literature'
 authors:
   - Alice Marwick
@@ -32,4 +32,5 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
----
++++
+
