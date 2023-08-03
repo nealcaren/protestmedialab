@@ -26,9 +26,14 @@ organizations:
   - name: University of North Carolina, Chapel Hill
     url: ''
 
+interests:
+  - Sociology of Sex and Gender
+  - Social Stratification and Inequality
+  - Communication and Media Sociology
+  - Social Psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the ociology of Sex and Gender, Social Stratification and Inequality, Communication and Media Sociology, and Social Psychology.
+bio: My research interests include the Sociology of Sex and Gender, Social Stratification and Inequality, Communication and Media Sociology, and Social Psychology.
 
 education:
   courses:
@@ -50,7 +55,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:furlk@live.unc.edu'
-  - icon: page
+  - icon: house
     icon_pack: fas
     link: 'https://katherinefurl.com/'
   - icon: twitter
