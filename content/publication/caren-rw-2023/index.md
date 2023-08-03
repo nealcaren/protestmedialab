@@ -29,7 +29,6 @@ featured: false
 
 # links:
 # - name: ""
-url: 'https://journals.sagepub.com/doi/10.1177/23780231231181900'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
