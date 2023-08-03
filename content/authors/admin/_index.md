@@ -71,7 +71,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Faculty
 ---
 
 I am an Associate Professor in the  [Sociology](https://sociology.unc.edu/) at the [University of North Carolina, Chapel Hill](http://unc.edu). My current research is on contemporary US social movements and the uses of media data for understanding movement processes. With Edwin Amenta, I am the author of *[Rough Draft of History: A Century of US Social Movements in the News](https://press.princeton.edu/books/paperback/9780691232775/rough-draft-of-history)*(Princeton 2022). My work has also appeared in journals such as *American Sociological Review*, *Social Forces*, *Social Problems*, and the *Annual Review of Sociology*. I'm [editing a collection](https://www.dareyoufight.org) of W.E.B. Du Bois's writings in *The Crisis.* 
