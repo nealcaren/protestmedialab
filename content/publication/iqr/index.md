@@ -1,5 +1,5 @@
 ---
-title: 'Insert Quote Here: Perceived effectiveness of Social Movement Activists'
+title: 'Insert Quote Here: Perceived Effectiveness of Social Movement Activists'
 authors:
   - Neal Caren
   - Braxton Brewington

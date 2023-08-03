@@ -2,7 +2,7 @@
 title: 'Right-Wing Protest in the United States, 2017 to 2022'
 authors:
   - Neal Caren
-date: '2023-07-05'
+date: '2023-07-15'
 doi: '10.1177/23780231231181900'
 
 # Schedule page publish date (NOT publication's date).

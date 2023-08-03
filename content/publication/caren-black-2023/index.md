@@ -1,5 +1,5 @@
 +++
-title = "Black lives matter protests and the 2020 Presidential election"
+title = "Black Lives Matter Protests and the 2020 Presidential Election"
 date = 2023-06-01
 authors = ["Neal Caren", "Kenneth T. Andrews", "Micah H. Nelson"]
 publication_types = ["2"]
