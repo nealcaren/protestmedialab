@@ -15,7 +15,7 @@ superuser: false
 
 
 user_groups:
-  - PhD Students
+  - Researchers
 
   # Role/position
 role: PhD Student
