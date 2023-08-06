@@ -13,14 +13,13 @@ sections:
       user_groups:
           - Researchers
           - Principal Investigators
-          - Researchers
           - Faculty
           - Postdocs  
           - PhD Students
           - Administration
           - Visitors
           - Alumni
-          - Undergraduate 
+          - Research Assistants 
       sort_by: Params.last_name
       sort_ascending: true
     design:
