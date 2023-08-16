@@ -4,10 +4,10 @@ title: Understanding Protest Effectiveness and Disruption
 date: '2023-01-01'
 
 authors:
-  - Neal Caren
   - Katherine Furl
   - Todd Lu
   - Austin Vo
+  - Neal Caren
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
