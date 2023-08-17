@@ -1,5 +1,5 @@
 ---
-title: Tactical Tension The Consequences of Protest Actions for Social  Movement Coalitions
+title: 'Tactical Tension: The Consequences of Protest Actions for Social  Movement Coalitions'
 authors:
   - Jacob Conley
 date: '2023-08-19'

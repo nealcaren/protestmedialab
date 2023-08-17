@@ -1,5 +1,6 @@
 ---
-title: '"She's Plastic, Would Still Smash:" Morally-Motivated Surveillance and Authenticity Online'
+title:  >
+  "She's Plastic, Would Still Smash:" Morally-Motivated Surveillance and Authenticity Online
 
 authors:
   - Katherine Furl
