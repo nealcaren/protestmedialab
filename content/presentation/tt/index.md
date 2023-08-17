@@ -1,13 +1,12 @@
 ---
-title: 'Insert Quote Here: Perceived Effectiveness of Social Movement Activists'
+title: Tactical Tension The Consequences of Protest Actions for Social  Movement Coalitions
 authors:
-  - Neal Caren
-  - Braxton Brewington
-date: '2023-08-17'
+  - Jacob Conley
+date: '2023-08-19'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-08-02'
+publishDate: '2023-08-16'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +15,7 @@ publishDate: '2023-08-02'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Collective Behavior & Social Movement Workshop: Movements at the Forefront of Contemporary Politics'
+publication: 'American Sociological Association Annual Meeting, Philadephia, PA'
 #publication_short: In *STC*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
