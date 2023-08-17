@@ -1,7 +1,7 @@
 ---
 title: Dare You Fight? W.E.B. Du Bois in The Crisis
 #summary: An example of using the in-built project page.
-date: '2023-01-02'
+date: '2022-12-05'
 
 authors:
   - Neal Caren
