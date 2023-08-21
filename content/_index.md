@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Carolina Protest & Media Research Group
+        Carolina Media & Protest Research Group
       image:
         filename: rw_protest.jpg
       text: |
         <br>
         
-        The **Carolina Protest & Media Research Group** is a collection of faculty, graduate students and undergraduates affiliated with the [University of North Carolina, Chapel Hill Sociology Department](https://sociology.unc.edu) studying collective action and the media. 
+        The **Carolina Media & Protest Research Group** is a collection of faculty, graduate students and undergraduates affiliated with the [University of North Carolina, Chapel Hill Sociology Department](https://sociology.unc.edu) studying collective action and the media. 
   
   - block: collection
     id: section-1
