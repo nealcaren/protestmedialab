@@ -25,9 +25,9 @@ organizations:
   - name: University of North Carolina, Chapel Hill
     url: ''
 
-  #interests:
-    - #INTEREST 1 HERE
-    - #INTEREST 2 HERE
+# interests:
+#    - INTEREST 1 HERE
+#    - INTEREST 2 HERE
 
 
 # Short bio (displayed in user profile at end of posts)
