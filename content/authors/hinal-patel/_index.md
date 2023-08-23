@@ -25,6 +25,11 @@ organizations:
   - name: University of North Carolina, Chapel Hill
     url: ''
 
+interests:
+  - Education and Health Policy
+  - Beauty Standards and the Perception of Women in Society
+  - The Intersection of Politics and Sociology
+  - Intersectional Economic Disparities
 
 
 # Short bio (displayed in user profile at end of posts)
