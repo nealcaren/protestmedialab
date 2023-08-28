@@ -31,7 +31,7 @@ bio: Addison Lewis is a senior at the University of North Carolina-Chapel Hill. 
 
 education:
   courses:
-    - course: B.A., Media and Journalism; Advertising and PR Focus. Environmental Justice Minor
+    - course: B.A., Media and Journalism (Advertising and PR Focus), Environmental Justice Minor. 
       institution: University of North Carolina, Chapel Hill
       year: 2024 (expected)
 
