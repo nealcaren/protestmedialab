@@ -25,6 +25,11 @@ organizations:
   - name: University of North Carolina, Chapel Hill
     url: ''
 
+interests:
+ - First Amendment and mass media
+ - Intellectual property
+ - Social media and mental health
+ - Environmental justice
 
 # Short bio (displayed in user profile at end of posts)
 bio: Addison Lewis is a senior at the University of North Carolina-Chapel Hill. She is majoring in Media and Journalism with a focus on Advertising and PR and is minoring in Environmental Justice.
