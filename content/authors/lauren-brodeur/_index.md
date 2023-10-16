@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lauren Brouder
+title: Lauren Brodeur
 
 # Full name (for SEO)
 first_name: Lauren
-last_name: Brouder
+last_name: Brodeur
 
 # Username (this should match the folder name)
 authors:
