@@ -76,5 +76,7 @@ social:
  - icon: linkedin
    icon_pack: fab
    link: https://www.linkedin.com/in/lauren-brodeur-487b28203/
-   
+
 ---
+
+Lauren Brodeur is a senior at the University of North Carolina-Chapel Hill. She is majoring in Political Science and Communication Studies and is minoring in Women’s and Gender Studies.

@@ -50,3 +50,5 @@ education:
 #    icon_pack: fas
 #    link: 'mailto:'
 ---
+
+Lisette Deloya Jaimes is a senior at the University of North Carolina-Chapel Hill. She is majoring in Public Policy with a minor in Health and Society.

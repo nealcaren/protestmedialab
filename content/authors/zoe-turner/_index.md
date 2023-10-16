@@ -50,7 +50,7 @@ social:
  - icon: linkedin
    icon_pack: fab
    link: https://www.linkedin.com/in/zoe-turner-b83557253
-   
+
 #interests:
 #  - Immigration and Education Policy
 #  - Perception of Women in Economics
@@ -76,3 +76,5 @@ social:
 #    icon_pack: fas
 #    link: 'mailto:'
 ---
+
+Zoe Turner is a senior undergraduate student at the University of North Carolina at Chapel Hill. She is double majoring in Political Science and Public Policy with a minor in Data Science. After her expected graduation in 2024 she will be continuing her education at UNC in the Master of Public Policy Program.

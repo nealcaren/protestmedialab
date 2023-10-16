@@ -43,3 +43,5 @@ education:
 
 
 ---
+
+Hinal Patel is a senior at the University of North Carolina-Chapel Hill. She is double-majoring in Political Science and Economics.
