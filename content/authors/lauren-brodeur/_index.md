@@ -49,4 +49,32 @@ organizations:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:'
+
+
+interests:
+- Feminist studies and women’s history
+- Legal studies 
+- Social justice
+- Criminal justice reform
+
+
+# Short bio (displayed in user profile at end of posts)
+bio: Lauren Brodeur is a senior at the University of North Carolina-Chapel Hill. She is majoring in Political Science and Communication Studies and is minoring in Women’s and Gender Studies.
+
+
+education:
+ courses:
+   - course: B.A., Political Science and Communication Studies, Women’s and Gender Studies Minor.
+     institution: University of North Carolina, Chapel Hill
+     year: 2024 (expected)
+
+
+social:
+ - icon: envelope
+   icon_pack: fas
+   link: 'mailto:lebrod@email.unc.edu'
+ - icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/lauren-brodeur-487b28203/
+   
 ---

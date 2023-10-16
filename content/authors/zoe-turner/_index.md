@@ -25,6 +25,32 @@ organizations:
   - name: University of North Carolina, Chapel Hill
     url: ''
 
+
+interests:
+- Racial Justice
+- K-12 Education Policy
+- Criminal Justice Reform
+
+
+# Short bio (displayed in user profile at end of posts)
+bio: Zoe Turner is a senior undergraduate student at the University of North Carolina at Chapel Hill. She is double majoring in Political Science and Public Policy with a minor in Data Science. After her expected graduation in 2024 she will be continuing her education at UNC in the Master of Public Policy Program.
+
+
+education:
+ courses:
+   - course: B.A., Political Science, B.A., Public Policy, Data Science Minor.
+     institution: University of North Carolina, Chapel Hill
+     year: 2024 (expected)
+
+
+social:
+ - icon: envelope
+   icon_pack: fas
+   link: 'mailto:zoert02@ad.unc.edu'
+ - icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/zoe-turner-b83557253
+   
 #interests:
 #  - Immigration and Education Policy
 #  - Perception of Women in Economics
