@@ -1,7 +1,7 @@
 ---
 title: "Protest, Policy and Racial Justice: Measuring US Anti-Police Brutality Protests"
 #summary: An example of using the in-built project page.
-date: '2023-12-05'
+date: '2023-10-05'
 
 authors:
   - Neal Caren
