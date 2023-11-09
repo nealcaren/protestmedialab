@@ -1,7 +1,7 @@
 ---
 title: 'Comparing Perceived Disruptiveness and Effectiveness of Protest Tactics'
 authors:
-  - Katie Furl
+  - Katherine Furl
   - Todd Lu
   - Austin Vo
   - Neal Caren
