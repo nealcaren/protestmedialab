@@ -1,9 +1,12 @@
 ---
-title: 'Right-Wing Protest in the United States, 2017 to 2022'
+title: 'Comparing Perceived Disruptiveness and Effectiveness of Protest Tactics'
 authors:
+  - Katie Furl
+  - Todd Lu
+  - Austin Vo
   - Neal Caren
-date: '2023-07-15'
-doi: '10.1177/23780231231181900'
+date: '2023-12-01'
+doi: '10.1177/23780231231212374'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -18,7 +21,7 @@ publication_types: ['2']
 publication: '*Socius: Sociological Research for a Dynamic World*'
 publication_short: '*Socius*'
 
-abstract: The past few years have seen a resurgence of right-wing demonstrations in the United States. Using new protest event data collected by the Crowd Counting Consortium, this visualization presents monthly trends in the size and count of protests by topic between 2017 and 2022. Conservative protest in the first three years was at a notably low level but with some very large events and a focus on abortion and gun rights. Protests swelled, starting in 2020, with demonstrations against coronavirus disease 2019 restrictions and in support of police officers, followed by election fraud rallies. Finally, 2022 was marked by lower levels of participation overall and increased events targeting LGBQT+ rights.
+abstract: How do U.S. voters view the disruptiveness and effectiveness of social movement tactics? Strategically used assertive tactics can enable movement success, though tactics considered too disruptive or violent may reduce public support. The authors investigate how U.S. voters perceive the disruptiveness and effectiveness of various protest tactics. In a representative survey experiment, 497 U.S. voters ranked the disruptiveness and effectiveness of 65 tactics. The authors find that tactics’ perceived disruptiveness and effectiveness exhibit an inverse relationship and a continuous character. The findings suggest that multiple, contextual factors influence public perceptions of protests.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
