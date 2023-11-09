@@ -64,6 +64,6 @@ slides:
 ---
 
 {{% callout note %}}
-Data and Stata replication code are available at [https://osf.io/wdutf/](https://osf.io/wdutf/).
+Data and Stata replication code are available at [https://osf.io/gs54m/](https://osf.io/gs54m/).
 {{% /callout %}}
 
