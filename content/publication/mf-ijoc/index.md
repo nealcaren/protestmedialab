@@ -3,8 +3,8 @@ title: 'Mountains of Evidence: Processual “Redpilling” as a Sociotechnical E
 authors:
   - Alice Marwick
   - Katherine Furl
-date: '2024-03-03'
-doi: '10.31235/osf.io/dvht7'
+date: '2024-02-03'
+doi: '10.31235/osf.io/vwnp4'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2023-08-08T00:00:00Z'
