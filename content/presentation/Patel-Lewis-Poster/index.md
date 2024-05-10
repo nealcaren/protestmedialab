@@ -2,7 +2,7 @@
 title: 'Parasocial Paternalism and Embodied Advice Among TikTok Cosmetic Interventionists'
 authors:
   - Hinal Patel
-  - Addie Lewis
+  - Addison Lewis
 date: '2024-04-29'
 doi: ''
 
