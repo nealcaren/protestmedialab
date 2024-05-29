@@ -1,5 +1,5 @@
 +++
-title = "Beyond the Protest p\Paradigm: Four Types of News Coverage and America's Most Prominent Social Movement Organizations"
+title = "Beyond the Protest Paradigm: Four Types of News Coverage and America's Most Prominent Social Movement Organizations"
 date = 2024-05-29
 authors = [ "Edwin Amenta","Neal Caren", "Weijun Yuan"]
 publication_types = ["2"]
