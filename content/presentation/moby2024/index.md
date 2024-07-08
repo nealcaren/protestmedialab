@@ -1,5 +1,5 @@
 ---
-title: 'Propaganda and Politics: A Du Boisean Theory of Social Movements'
+title: 'Propaganda and Politics: A Du Boisian Theory of Social Movements'
 authors:
   - Neal Caren
 date: '2024-07-08'
@@ -35,7 +35,7 @@ publication: 'Mobilization Strategy and Influence Conference, San Diego, CA'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: 'dyf-moby.pptx'
+url_slides: 'dyf-moby.pptx'
 #url_source: '#'
 #url_video: '#'
 
