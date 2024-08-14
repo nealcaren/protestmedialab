@@ -1,5 +1,5 @@
 ---
-title: 'Social Media and College Students' Digital Legitimacy'
+title: "Social Media and College Students' Digital Legitimacy"
 authors:
   - Katherine Furl
 date: '2024-08-13'
