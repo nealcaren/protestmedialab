@@ -1,5 +1,5 @@
 ---
-title: 'Propaganda and Politics: A Du Boisian Theory of Social Movements'
+title: 'How Social Characteristics Impact Views of Tactical Disruption and Effectiveness'
 authors:
   - Austin Hoang-Nam Vo
   - Katherine Furl
