@@ -15,7 +15,7 @@ superuser: false
 
 # Don't change this.
 user_groups:
-  - Research Assistants
+  - Former Associates
 
 # Role/position
 role: Undergraduate Research Assistant
