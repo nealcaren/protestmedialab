@@ -33,14 +33,14 @@ interests:
 # Short bio (displayed in user profile at end of posts)
 bio: Jacob Ginn is a PhD student in the Department of Sociology at the University of North Carolina at Chapel Hill.
 
-education:
-  courses:
-    - course: M.P.A., Public Policy
-      institution: University of Wisconsin–Madison
-      year: 2020
-    - course: B.A., Screen Arts and Cultures
-      institution: University of Michigan
-      year: 2015
+#education:
+#  courses:
+#    - course: M.P.A., Public Policy
+#      institution: University of Wisconsin–Madison
+#      year: 2020
+#    - course: B.A., Screen Arts and Cultures
+#      institution: University of Michigan
+#      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
