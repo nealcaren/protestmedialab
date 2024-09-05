@@ -56,7 +56,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/Braxtonbrew96
 ---
-Braxton is a second year doctoral candidate in the Sociology Department at the University of North Carolina at Chapel Hill.
+Braxton is a third year graduate student in the Sociology Department at the University of North Carolina at Chapel Hill.
 
 His research seeks to analyze how social movements interact with the media—and vice versa— with a focus on mainstream corporate press.
 
