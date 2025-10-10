@@ -15,7 +15,7 @@ superuser: false
 
 # Don't change this.
 user_groups:
-  - Researchers
+  - Alum
 
 # Role/position
 role: PhD Student
@@ -32,7 +32,6 @@ interests:
   - Labor Movements
 
 # Short bio (displayed in user profile at end of posts)
-bio: Todd Lu is a doctoral candidate in the Sociology department at the University of North Carolina-Chapel Hill.
 
 education:
   courses:
@@ -64,11 +63,3 @@ social:
 #    icon_pack: fab
 #    link: https://github.com/Todd-Lu
 ---
-
-I am a doctoral candidate in the [Sociology Department](https://sociology.unc.edu/) at the University of North Carolina at Chapel Hill.
-
-My research consists of culture, media, and social movements. 
-
-I am currently working on two main projects. My dissertation project assesses the political beliefs and cultural resonance of green jobs and environmental concerns for leaders in the labor and environmental movements, and their prospects for labor-environmental coalitions. My second projects assesses the cultural impacts of Black Lives Matter on media attention and framing around policing victims.
-
-I employ a combination of quantitative and qualitative methods in my research along with computational approaches to data collection, including webscraping, content analysis of interviews and articles, and inferential statistics. 

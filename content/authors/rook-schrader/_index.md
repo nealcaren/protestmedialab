@@ -15,7 +15,7 @@ superuser: false
 
 # Don't change this.
 user_groups:
-  - Research Assistants
+  - Alum
 
 # Role/position
 role: Undergraduate Research Assistant
@@ -47,7 +47,6 @@ interests:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rook Schrader is an undergraduate sophomore at UNC Chapel Hill. He is studying Sociology and Anthropology, with a minor in French. 
 
 
 education:
@@ -71,5 +70,3 @@ social:
 #    icon_pack: fas
 #    link: 'mailto:'
 ---
-
-Rook Schrader is an undergraduate sophomore at UNC Chapel Hill. He is studying Sociology and Anthropology, with a minor in French. 

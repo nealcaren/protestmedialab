@@ -15,7 +15,7 @@ superuser: false
 
 # Don't change this.
 user_groups:
-  - Research Assistants
+  - Alum
 
 # Role/position
 role: Undergraduate Research Assistant
@@ -32,12 +32,10 @@ interests:
  - Environmental justice
 
 # Short bio (displayed in user profile at end of posts)
-bio: Addison Lewis is a senior at the University of North Carolina-Chapel Hill. She is majoring in Media and Journalism with a focus on Advertising and PR and is minoring in Environmental Justice.
 
 education:
   courses:
     - course: B.A., Media and Journalism (Advertising and PR Focus), Environmental Justice Minor. 
       institution: University of North Carolina, Chapel Hill
       year: 2024 (expected)
-
 ---

@@ -15,7 +15,7 @@ superuser: false
 
 # Don't change this.
 user_groups:
-  - Former Associates
+  - Alum
 
 # Role/position
 role: Undergraduate Research Assistant
@@ -32,7 +32,6 @@ interests:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lisette Deloya Jaimes is a senior at the University of North Carolina-Chapel Hill. She is majoring in Public Policy with a minor in Health and Society.
 
 education:
   courses:
@@ -50,5 +49,3 @@ education:
 #    icon_pack: fas
 #    link: 'mailto:'
 ---
-
-Lisette Deloya Jaimes is a senior at the University of North Carolina-Chapel Hill. She is majoring in Public Policy with a minor in Health and Society.

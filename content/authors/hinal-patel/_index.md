@@ -15,7 +15,7 @@ superuser: false
 
 # Don't change this.
 user_groups:
-  - Research Assistants
+  - Alum
 
 # Role/position
 role: Undergraduate Research Assistant
@@ -33,15 +33,10 @@ interests:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hinal Patel is a senior at the University of North Carolina-Chapel Hill. She is double-majoring in Political Science and Economics.
 
 education:
   courses:
     - course: B.A., Political Science and Economics
       institution: University of North Carolina, Chapel Hill
       year: 2024 (expected)
-
-
 ---
-
-Hinal Patel is a senior at the University of North Carolina-Chapel Hill. She is double-majoring in Political Science and Economics.

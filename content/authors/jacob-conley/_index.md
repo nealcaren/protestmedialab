@@ -15,7 +15,7 @@ superuser: false
 
 
 user_groups:
-  - Researchers
+  - Alum
 
   # Role/position
 role: PhD Student
@@ -42,6 +42,4 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jbc543@unc.edu'
-
 ---
-
